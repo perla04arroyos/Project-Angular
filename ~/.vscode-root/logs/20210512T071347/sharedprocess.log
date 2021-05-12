@@ -1,0 +1,25 @@
+[2021-05-12 07:13:53.626] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-05-12 07:13:53.629] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-05-12 07:13:53.632] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-containers
+[2021-05-12 07:13:55.093] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-containers /home/perla/Documents/Tutoriales/Angular/aprendiendo-angular/~/.vscode-root/CachedExtensionVSIXs/ms-vscode-remote.remote-containers-0.177.2
+[2021-05-12 07:13:57.713] [sharedprocess] [info] Downloaded extension: ms-python.python /home/perla/Documents/Tutoriales/Angular/aprendiendo-angular/~/.vscode-root/CachedExtensionVSIXs/ms-python.python-2021.5.829140558
+[2021-05-12 07:14:00.522] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/perla/Documents/Tutoriales/Angular/aprendiendo-angular/~/.vscode-root/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[2021-05-12 07:14:03.498] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.2f3c6b7e-4255-4ea4-b1d3-2f3a0a90d4d3: ms-vscode-remote.remote-containers
+[2021-05-12 07:14:03.905] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.2
+[2021-05-12 07:14:03.908] [sharedprocess] [info] Installation completed. ms-vscode-remote.remote-containers
+[2021-05-12 07:14:04.451] [sharedprocess] [info] Extensions installed successfully: ms-vscode-remote.remote-containers
+[2021-05-12 07:14:04.553] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.94ef9d20-94cb-433a-9cc6-f08ec28ff9f8: ms-toolsai.jupyter
+[2021-05-12 07:14:04.756] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-toolsai.jupyter-2021.6.832593372
+[2021-05-12 07:14:04.761] [sharedprocess] [info] Installation completed. ms-toolsai.jupyter
+[2021-05-12 07:14:05.072] [sharedprocess] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2021-05-12 07:14:08.383] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.fbdd7746-1d50-4826-9f19-eeeb2f85d010: ms-python.python
+[2021-05-12 07:14:08.463] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.python-2021.5.829140558
+[2021-05-12 07:14:08.472] [sharedprocess] [info] Installation completed. ms-python.python
+[2021-05-12 07:14:09.235] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-05-12 07:14:12.594] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/perla/Documents/Tutoriales/Angular/aprendiendo-angular/~/.vscode-root/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.5.1
+[2021-05-12 07:14:17.912] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.c6d1aeb0-392e-4499-8dd6-0f360b70e5ca: ms-python.vscode-pylance
+[2021-05-12 07:14:17.966] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-python.vscode-pylance-2021.5.1
+[2021-05-12 07:14:17.966] [sharedprocess] [info] Installation completed. ms-python.vscode-pylance
+[2021-05-12 07:14:18.129] [sharedprocess] [info] Extensions installed successfully: ms-python.vscode-pylance
+[2021-05-12 07:14:18.166] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2021-05-12 07:14:30.550] [sharedprocess] [info] Starting to clean up unused language packs.

@@ -1,0 +1,124 @@
+[2021-05-12 07:13:51.857] [exthost] [info] extension host started
+[2021-05-12 07:13:52.166] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-12 07:13:52.167] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-12 07:13:52.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-12 07:13:52.214] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-12 07:13:52.221] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:13:52.221] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/git/dist/main
+[2021-05-12 07:13:52.384] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-05-12 07:13:52.384] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-05-12 07:13:53.285] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-05-12 07:13:53.285] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-05-12 07:13:53.627] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2021-05-12 07:13:53.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2021-05-12 07:13:53.854] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-12 07:13:53.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-12 07:13:54.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:13:54.159] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-05-12 07:13:54.190] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-12 07:13:54.190] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-12 07:13:54.237] [exthost] [info] eager extensions activated
+[2021-05-12 07:13:54.292] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:13:54.293] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-12 07:13:54.315] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:13:54.315] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-12 07:13:54.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:13:54.320] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-12 07:13:54.323] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:13:54.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.0/dist/extension/extension
+[2021-05-12 07:14:06.975] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-12 07:14:07.988] [exthost] [info] exiting with code 0
+[2021-05-12 07:14:09.582] [exthost] [info] extension host started
+[2021-05-12 07:14:09.644] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-12 07:14:09.645] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-12 07:14:09.655] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-12 07:14:09.655] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-12 07:14:09.658] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:14:09.658] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/git/dist/main
+[2021-05-12 07:14:09.674] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-05-12 07:14:09.674] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-05-12 07:14:09.681] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-05-12 07:14:09.681] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-05-12 07:14:09.688] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2021-05-12 07:14:09.688] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2021-05-12 07:14:09.702] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-12 07:14:09.702] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-05-12 07:14:09.860] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-12 07:14:09.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-12 07:14:10.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:14:10.017] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-05-12 07:14:10.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-12 07:14:10.160] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-12 07:14:10.217] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 317
+[2021-05-12 07:14:10.843] [exthost] [info] eager extensions activated
+[2021-05-12 07:14:10.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:10.849] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-12 07:14:10.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:10.855] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-12 07:14:10.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:10.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-12 07:14:10.968] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:10.968] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.2/dist/extension/extension
+[2021-05-12 07:14:44.799] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-12 07:14:45.812] [exthost] [info] exiting with code 0
+[2021-05-12 07:14:46.880] [exthost] [info] extension host started
+[2021-05-12 07:14:46.924] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-12 07:14:46.924] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-12 07:14:46.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-12 07:14:46.936] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-12 07:14:46.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:14:46.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/git/dist/main
+[2021-05-12 07:14:46.955] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-05-12 07:14:46.955] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-05-12 07:14:46.961] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-05-12 07:14:46.961] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-05-12 07:14:46.967] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2021-05-12 07:14:46.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2021-05-12 07:14:47.060] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-12 07:14:47.060] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-12 07:14:47.211] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:14:47.212] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-05-12 07:14:47.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-12 07:14:47.273] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-12 07:14:47.362] [exthost] [info] eager extensions activated
+[2021-05-12 07:14:47.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:47.364] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-12 07:14:47.371] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:47.371] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-12 07:14:47.374] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:47.374] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-12 07:14:47.375] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:14:47.376] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.2/dist/extension/extension
+[2021-05-12 07:15:11.004] [exthost] [info] extension host terminating: received terminate message from renderer
+[2021-05-12 07:15:12.017] [exthost] [info] exiting with code 0
+[2021-05-12 07:15:13.191] [exthost] [info] extension host started
+[2021-05-12 07:15:13.253] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-05-12 07:15:13.253] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-05-12 07:15:13.265] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-05-12 07:15:13.266] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-05-12 07:15:13.268] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:15:13.268] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/git/dist/main
+[2021-05-12 07:15:13.285] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-05-12 07:15:13.286] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-05-12 07:15:13.293] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons {"startup":true,"extensionId":{"value":"equinusocio.vsc-material-theme-icons","_lower":"equinusocio.vsc-material-theme-icons"},"activationEvent":"*"}
+[2021-05-12 07:15:13.294] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/equinusocio.vsc-material-theme-icons-1.2.2/out/src/extension
+[2021-05-12 07:15:13.300] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2021-05-12 07:15:13.300] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2021-05-12 07:15:13.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2021-05-12 07:15:13.317] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/npm/dist/npmMain
+[2021-05-12 07:15:13.431] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-05-12 07:15:13.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-05-12 07:15:13.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-05-12 07:15:13.627] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-05-12 07:15:13.729] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 383
+[2021-05-12 07:15:14.168] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-05-12 07:15:14.168] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-05-12 07:15:14.263] [exthost] [info] eager extensions activated
+[2021-05-12 07:15:14.271] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:15:14.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-05-12 07:15:14.279] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:15:14.279] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-05-12 07:15:14.281] [exthost] [info] ExtensionService#_doActivateExtension vscode.testing-editor-contributions {"startup":false,"extensionId":{"value":"vscode.testing-editor-contributions","_lower":"vscode.testing-editor-contributions"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:15:14.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///snap/code/64/usr/share/code/resources/app/extensions/testing-editor-contributions/dist/extension.js
+[2021-05-12 07:15:14.284] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-05-12 07:15:14.284] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.177.2/dist/extension/extension
